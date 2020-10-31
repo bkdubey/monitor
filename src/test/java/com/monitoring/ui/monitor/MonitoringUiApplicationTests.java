@@ -13,7 +13,7 @@ public class MonitoringUiApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("hacktoberfest");
+		System.out.println( "hacktoberfest");
 	}
 
 }
